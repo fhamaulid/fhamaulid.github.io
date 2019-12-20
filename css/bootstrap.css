@@ -4561,6 +4561,17 @@ tbody.collapse.show {
   margin-bottom: 15px;
 }
 
+nav.navbar.navbar-green {
+    display: none;
+}
+
+.left-footer{
+  display: none;
+}
+.right-footer{
+  display: none;
+}
+
 @media (min-width: 576px) {
   .card-deck {
     -webkit-box-orient: horizontal;
